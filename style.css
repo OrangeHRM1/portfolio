@@ -2622,3 +2622,16 @@ code, pre {
     scroll-behavior: auto !important;
   }
 }
+/* Force Hero content to be visible */
+.fade-in-up {
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+}
+
+.hero-content,
+.hero-visual {
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+}
